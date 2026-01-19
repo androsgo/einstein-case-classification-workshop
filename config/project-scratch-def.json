@@ -1,6 +1,7 @@
 {
   "orgName": "Case Classification Org",
   "edition": "Enterprise",
+  "durationDays": 30,
   "description": "Hands On with Einstein Case Classification",
   "features": ["EinsteinAnalyticsPlus","EinsteinBuilderFree","AnalyticsAdminPerms","CaseClassification","DevelopmentWave",
               "EinsteinBuilder","LightningServiceConsole","ServiceCloud","ServiceUser"],
